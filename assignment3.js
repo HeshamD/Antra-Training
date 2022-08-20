@@ -8,9 +8,9 @@ Expected Output: 34223
 
 function reverseNumbers(numbers)
 {
-    while(isNaN(numbers)){
+    if(isNaN(numbers)){
         console.log(`This is ${numbers} not a number`);
-        console.log(`Try again`);
+        console.log(`Try again`); 
     }
 
 
