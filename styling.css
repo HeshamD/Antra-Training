@@ -1,0 +1,10 @@
+.header{
+    background-color:#283593;
+    color: #fff;
+    display: flex; /** to display */
+    justify-content: space-between;
+}
+
+.nav a{
+    color: #fff;
+}

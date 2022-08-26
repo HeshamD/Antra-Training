@@ -1,0 +1,10 @@
+MVC is a very popular pattern for organizational code.
+
+    Model - Data for Manager
+    View - Visual representation of the model
+    Controller - Link users and systems
+
+
+The model is the data.In this CourseSelect program
+Views are how data is displayed.In this program, it is the HTML presented in DOM and CSS.
+Controllers are used to connect models and views.It requires user input, such as clicking or typing, and handles callbacks to user interactions.
